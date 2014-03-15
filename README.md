@@ -13,3 +13,11 @@ A diary application for android
 [![Per Entry](https://raw.github.com/ehrasaab/MyDailyDiary/master/snapshots/04.jpg)](#features)
 
 [![Per Entry with options below](https://raw.github.com/ehrasaab/MyDailyDiary/master/snapshots/05.jpg)](#features)
+
+<br><br><br>
+
+<h3>Contributors</h3>
+<ul>
+    <li>Era Vivien Perral</li>
+    <li>Christine Mae Estocado</li>
+</ul>
